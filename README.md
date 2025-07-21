@@ -26,17 +26,16 @@ A machine learning project that predicts employee salaries using classification 
 
 ## 🗂️ Project Structure
 
-employee-salary-prediction/
-│
-├── app.py # Streamlit app interface
-├── model_utils.py # ML pipeline and utility functions
-├── best_model.pkl # Trained ML model
-├── label_encoders.pkl # Encoders for categorical columns
-├── scaler.pkl # Feature scaler
-├── feature_list.pkl # Features used for training
-├── requirements.txt # List of required Python packages
-├── README.md # Project documentation
-└── .gitignore # Files/directories to ignore in Git
+employee-salary-prediction
+app.py # Streamlit app interface
+model_utils.py # ML pipeline and utility functions
+best_model.pkl # Trained ML model
+label_encoders.pkl # Encoders for categorical columns
+scaler.pkl # Feature scaler
+feature_list.pkl # Features used for training
+requirements.txt # List of required Python packages
+README.md # Project documentation
+
 
 ---
 
