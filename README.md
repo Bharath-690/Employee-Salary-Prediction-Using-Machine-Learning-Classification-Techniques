@@ -60,13 +60,13 @@ http://localhost:8501
 
 ### Final Prediction Outputs
 
-![Employee Salary Prediction Final Output](Employee_Salary_Prediction_Final_Output.png)  
-![Employee Salary Prediction Final Output 1](Employee_Salary_Prediction_Final_Output1.png)  
+![Employee Salary Prediction Final Output](Employee_salary_prediction_final_Output.png)  
+![Employee Salary Prediction Final Output 1](Employee_salary_prediction_final_Output1.png)  
 
 ### Salary Predictions by Category
 
-![Salary Prediction Less Than 50K](Salary_Prediction_Less_Than_50K.png)  
-![Salary Prediction More Than 50K](Salary_Prediction_More_Than_50K.png)  
+![Salary Prediction Less Than 50K](salary_prediction_less_than_50K.png)  
+![Salary Prediction More Than 50K](salary_prediction_more_than_50K.png)  
 
 ---
 
@@ -84,6 +84,6 @@ http://localhost:8501
 ### Auto ML Visualizations
 
 ![Auto ML Visual](Auto_ML_Visual.png)  
-![Auto ML Visual1](Auto_ML_Visual1.png)  
+![Auto ML Visual1](Auto_ML_Visual_1.png)  
 
 
