@@ -36,20 +36,20 @@ A machine learning project that predicts employee salaries using classification 
 - `│   └── feature_list.pkl
 - `├── requirements.txt
 - `├── README.md
-`├── .gitignore
-`├── APP Looks or Result of APP
-`│ ├── Employee_salary_prediction_final_output.png
-`│ ├── Employee_salary_prediction_final_output1.png	
-`│ ├── Employee_salary_prediction_final_output1.png	
-`│ ├── Employee_salary_prediction_final_output1.png	
-`│ ├── salary_prediction_less_than_50K.png
-`│ ├── salary_prediction_more_than_50K.png
-`│ ├── Auto_ML_Prediction_with_Dataset.png
-`│ ├── After_Run_Auto_ML.png
-`│ ├── After_Run_Auto_ML_1.png
-`│ ├──  Auto_ML_Visual.png
-`│ ├──  Auto_ML_Visual_1.png
- ` └── *.png   
+- `├── .gitignore
+- `├── APP Looks or Result of APP
+- `│ ├── Employee_salary_prediction_final_output.png
+- `│ ├── Employee_salary_prediction_final_output1.png	
+- `│ ├── Employee_salary_prediction_final_output1.png	
+- `│ ├── Employee_salary_prediction_final_output1.png	
+- `│ ├── salary_prediction_less_than_50K.png
+- `│ ├── salary_prediction_more_than_50K.png
+- `│ ├── Auto_ML_Prediction_with_Dataset.png
+- `│ ├── After_Run_Auto_ML.png
+- `│ ├── After_Run_Auto_ML_1.png
+- `│ ├──  Auto_ML_Visual.png
+- `│ ├──  Auto_ML_Visual_1.png
+- ` └── *.png   
 
 ---
 
