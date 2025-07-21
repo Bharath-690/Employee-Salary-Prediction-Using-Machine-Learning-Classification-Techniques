@@ -25,10 +25,26 @@ A machine learning project that predicts employee salaries using classification 
 ---
 
 ## 🗂️ Project Structure
-employee-salary-prediction
-├── app.py                   # Streamlit app interface
-├── model_utils.py           # ML pipeline and utility functions
-├── best_model.pkl           # Trained ML model
+- `employee-salary-prediction
+- `app.py # Streamlit app interface
+model_utils.py # ML pipeline and utility functions
+salary_prediction_pickle_files.zip   # All 4 pickle files Compressed 
+1.best_model.pkl # Trained ML model
+2.label_encoders.pkl # Encoders for categorical columns
+3.scaler.pkl # Feature scaler
+4.feature_list.pkl # Features used for training
+ requirements.txt # List of required Python packages
+ README.md # Project documentation
+.gitignore # Files/directories to ignore in Git
+After_Run_Auto_ML.png
+ After_Run_Auto_ML_1.png
+ Auto_ML_Prediction_with_Dataset.png
+ Auto_ML_Visual.png
+ Auto_ML_Visual_1.png
+ Employee_salary_prediction_final_output.png
+ Employee_salary_prediction_final_output1.png
+*.png # Result images and charts
+
 ---
 
 ## 💻 How to Run the App
