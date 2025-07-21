@@ -60,8 +60,8 @@ http://localhost:8501
 
 ### Final Prediction Outputs
 
-![Employee Salary Prediction Final Output](Employee_salary_prediction_final_Output.png)  
-![Employee Salary Prediction Final Output 1](Employee_salary_prediction_final_Output1.png)  
+![Employee Salary Prediction Final Output](Employee_salary_prediction_final_output.png)  
+![Employee Salary Prediction Final Output 1](Employee_salary_prediction_final_output1.png)  
 
 ### Salary Predictions by Category
 
