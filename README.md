@@ -25,25 +25,31 @@ A machine learning project that predicts employee salaries using classification 
 ---
 
 ## 🗂️ Project Structure
-- `employee-salary-prediction
-- `app.py # Streamlit app interface
-model_utils.py # ML pipeline and utility functions
-salary_prediction_pickle_files.zip   # All 4 pickle files Compressed 
-1.best_model.pkl # Trained ML model
-2.label_encoders.pkl # Encoders for categorical columns
-3.scaler.pkl # Feature scaler
-4.feature_list.pkl # Features used for training
- requirements.txt # List of required Python packages
- README.md # Project documentation
-.gitignore # Files/directories to ignore in Git
-After_Run_Auto_ML.png
- After_Run_Auto_ML_1.png
- Auto_ML_Prediction_with_Dataset.png
- Auto_ML_Visual.png
- Auto_ML_Visual_1.png
- Employee_salary_prediction_final_output.png
- Employee_salary_prediction_final_output1.png
-*.png # Result images and charts
+`employee-salary-prediction/
+`│
+`├── app.py
+`├── model_utils.py
+`├── pickle_files/
+`│   ├── best_model.pkl
+`│   ├── label_encoders.pkl
+`│   ├── scaler.pkl
+`│   └── feature_list.pkl
+`├── requirements.txt
+`├── README.md
+`├── .gitignore
+`├── APP Looks or Result of APP
+`│ ├── Employee_salary_prediction_final_output.png
+`│ ├── Employee_salary_prediction_final_output1.png	
+`│ ├── Employee_salary_prediction_final_output1.png	
+`│ ├── Employee_salary_prediction_final_output1.png	
+`│ ├── salary_prediction_less_than_50K.png
+`│ ├── salary_prediction_more_than_50K.png
+`│ ├── Auto_ML_Prediction_with_Dataset.png
+`│ ├── After_Run_Auto_ML.png
+`│ ├── After_Run_Auto_ML_1.png
+`│ ├──  Auto_ML_Visual.png
+`│ ├──  Auto_ML_Visual_1.png
+ ` └── *.png   
 
 ---
 
