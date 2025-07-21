@@ -58,7 +58,7 @@ http://localhost:8501
 
 ## 🖼️ Demo Screenshots
 
-### Final Prediction Outputs
+### Final Outputs of APP
 
 ![Employee Salary Prediction Final Output](Employee_salary_prediction_final_output.png)  
 ![Employee Salary Prediction Final Output 1](Employee_salary_prediction_final_output1.png)  
