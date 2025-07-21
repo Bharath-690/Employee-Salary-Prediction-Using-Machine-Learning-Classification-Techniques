@@ -25,17 +25,17 @@ A machine learning project that predicts employee salaries using classification 
 ---
 
 ## 🗂️ Project Structure
-`employee-salary-prediction/
-`│
-`├── app.py
-`├── model_utils.py
-`├── pickle_files/
-`│   ├── best_model.pkl
-`│   ├── label_encoders.pkl
-`│   ├── scaler.pkl
-`│   └── feature_list.pkl
-`├── requirements.txt
-`├── README.md
+- `employee-salary-prediction/
+- `│
+- `├── app.py
+- `├── model_utils.py
+- `├── pickle_files/
+- `│   ├── best_model.pkl
+- `│   ├── label_encoders.pkl
+- `│   ├── scaler.pkl
+- `│   └── feature_list.pkl
+- `├── requirements.txt
+- `├── README.md
 `├── .gitignore
 `├── APP Looks or Result of APP
 `│ ├── Employee_salary_prediction_final_output.png
