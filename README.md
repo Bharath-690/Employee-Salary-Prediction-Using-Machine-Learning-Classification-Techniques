@@ -1,2 +1,89 @@
 # Employee-Salary-Prediction-Using-Machine-Learning-Classification-Techniques
 A machine learning project that predicts employee salaries using classification techniques such as Random Forest, Decision Tree, and Logistic Regression.
+
+---
+
+## 🚀 Features
+
+- User-friendly Streamlit interface
+- Predicts salary class based on user inputs
+- Uses trained ML model (`best_model.pkl`)
+- Preprocessing with encoders and scaler
+- Visualizations using Seaborn and Matplotlib
+- SMOTE for handling imbalanced datasets
+
+---
+
+## 🧠 Machine Learning Components
+
+- `best_model.pkl`: Trained ML classification model
+- `label_encoders.pkl`: Label encoders for categorical features
+- `scaler.pkl`: Scaler object for feature normalization
+- `feature_list.pkl`: List of selected features used for prediction
+- `model_utils.py`: Contains ML pipeline and preprocessing logic
+
+---
+
+## 🗂️ Project Structure
+
+employee-salary-prediction/
+│
+├── app.py # Streamlit app interface
+├── model_utils.py # ML pipeline and utility functions
+├── best_model.pkl # Trained ML model
+├── label_encoders.pkl # Encoders for categorical columns
+├── scaler.pkl # Feature scaler
+├── feature_list.pkl # Features used for training
+├── requirements.txt # List of required Python packages
+├── README.md # Project documentation
+└── .gitignore # Files/directories to ignore in Git
+
+---
+
+## 💻 How to Run the App
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/employee-salary-prediction.git
+   cd employee-salary-prediction
+
+pip install -r requirements.txt
+
+streamlit run app.py
+
+http://localhost:8501
+
+---
+
+## 🖼️ Demo Screenshots
+
+### Final Prediction Outputs
+
+![Employee Salary Prediction Final Output](result/Employee_Salary_Prediction_Final_Output.png)  
+![Employee Salary Prediction Final Output 1](result/Employee_Salary_Prediction_Final_Output1.png)  
+
+### Salary Predictions by Category
+
+![Salary Prediction Less Than 50K](result/Salary_Prediction_Less_Than_50K.png)  
+![Salary Prediction More Than 50K](result/Salary_Prediction_More_Than_50K.png)  
+
+---
+
+### Prediction with Dataset
+
+![Auto ML Prediction with Dataset](result/Auto_ML_Prediction_with_Dataset.png)  
+
+
+### After Running Auto ML
+
+![After Run Auto ML](result/After_Run_Auto_ML.png)  
+![After Run Auto ML 1](result/After_Run_Auto_ML_1.png)  
+
+
+### Auto ML Visualizations
+
+![Auto ML Visual](result/Auto_ML_Visual.png)  
+![Auto ML Visual1](result/Auto_ML_Visual1.png)  
+
+
